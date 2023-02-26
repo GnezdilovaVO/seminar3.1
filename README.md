@@ -43,4 +43,6 @@ a = -9; b = -3 -> max = -3;
 
 8 -> 2, 4, 6, 8
 
+![Блок-схема](Homework_004/diagram.drawio.png)
+
 [КОД](Homework_004/Program.cs)
