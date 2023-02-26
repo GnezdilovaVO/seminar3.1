@@ -32,6 +32,8 @@ a = -9; b = -3 -> max = -3;
 
 7 -> нет
 
+![Блок-схема](Homework_003/diagram.drawio.png)
+
 [КОД](Homework_003/Program.cs)
 
  - Homework_004
