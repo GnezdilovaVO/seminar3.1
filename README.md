@@ -19,6 +19,8 @@ a = -9; b = -3 -> max = -3;
 
 22 3 9 -> 22
 
+![Блок-схема](Homework_002/diagram.drawio.png)
+
 [КОД](Homework_002/Program.cs)
 
  - Homework_003
